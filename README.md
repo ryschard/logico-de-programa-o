@@ -2,4 +2,4 @@
  essa pastilha é o local onde estarão todos os codigos das aulas de logica de programação
 
 
- ![chicomoedas](https://portaldobitcoin.uol.com.br/wp-content/uploads/sites/6/2023/09/Chico-Moedas-pod-delas-Reproducao.jpg)
+ ![chicomoedas](https://i2o.scdn.co/image/ab67706c0000cfa3929145e5b0a8b6fbf28436e9)

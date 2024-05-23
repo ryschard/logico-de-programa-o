@@ -2,4 +2,4 @@
  essa pastilha é o local onde estarão todos os codigos das aulas de logica de programação.
 
 
- ![gatofofo](![Alt text](image.png) )
+ ![gatofofo] (image.png)
